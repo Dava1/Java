@@ -1,0 +1,4 @@
+Sever : 0
+Jih : 0
+Vychod : 0
+Zapad : 0

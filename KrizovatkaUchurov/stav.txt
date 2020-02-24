@@ -1,0 +1,4 @@
+Sever : 2
+Jih : 3
+Vychod : 8
+Zapad : 4

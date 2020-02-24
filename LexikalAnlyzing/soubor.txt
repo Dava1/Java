@@ -1,0 +1,5 @@
+begin 
+a, b=100;
+c=0x10; 
+end;
+then,
